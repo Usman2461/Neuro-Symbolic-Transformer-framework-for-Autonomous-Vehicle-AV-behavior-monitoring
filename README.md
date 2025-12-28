@@ -1,5 +1,5 @@
 
-This repository contains the implementation of a Neuro-Symbolic Monitoring Framework for autonomous vehicles (AVs). The framework integrates transformer-based perception with symbolic reasoning to achieve real-time, explainable behavior analysis. The system processes multi-modal sensory data from AVs (e.g., camera, LiDAR, GPS, telemetry) and outputs behavior classifications with human-readable explanations.
+This repository contains the implementation of framework for autonomous vehicles (AVs). The framework integrates transformer-based perception with symbolic reasoning to achieve real-time, explainable behavior analysis. The system processes multi-modal sensory data from AVs (e.g., camera, LiDAR, GPS, telemetry) and outputs behavior classifications with human-readable explanations.
 
 Basic Requirements:
 python
