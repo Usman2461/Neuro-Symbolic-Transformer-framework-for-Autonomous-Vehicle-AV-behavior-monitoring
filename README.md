@@ -69,3 +69,9 @@ Citations
 If you use or reference this work, please cite the following paper:
 
 Muhammad Usman Arshad, Yicong Li, Zhou Kuanjiu. Neuro-Symbolic Monitoring Framework for Autonomous Vehicles. Neuro-Symbolic AI, 2025.
+
+Contact Information
+
+For further questions, please contact:
+
+Muhammad Usman Arshad: usmanarshad5050@outlook.com
