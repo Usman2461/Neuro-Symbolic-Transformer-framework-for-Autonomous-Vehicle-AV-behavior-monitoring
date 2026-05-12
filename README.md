@@ -10,6 +10,7 @@ matplotlib
 
 
 datasets used (CARLA-Sim-Traffic, nuScenes)
+NuScene Dataset can be downloaded from : https://www.nuscenes.org/
 
 4. Hardware and Software Setup
 
